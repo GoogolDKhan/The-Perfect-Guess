@@ -3,7 +3,7 @@ randNum = random.randint(1, 100)
 guesses = 0
 userGuess = None
 while(userGuess != randNum):
-    userGuess = int(input("Enter your guess between 1-100: "))
+    userGuess = int(input("Enter your guess between the number 1-100: "))
     guesses += 1
     if (userGuess == randNum):
         print("You guessed it right!")
