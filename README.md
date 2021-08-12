@@ -6,6 +6,6 @@ This is a number guessing console game, where you have to guess a number which i
 
 ## Author
 
-- [@Sarfaraz Khan](https://github.com/GoogolDKhan)
+- [@Sarfaraz](https://github.com/GoogolDKhan)
 
   
